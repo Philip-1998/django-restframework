@@ -1,0 +1,9 @@
+# python auto-generated files/folders
+__pycache__/
+#  anything that ends with ".pyc"
+
+#IDE specific folders
+.idea/
+.vscode
+
+db.sqlite3
